@@ -1,6 +1,6 @@
 layout: page
 title: "Hello"
-permalink: /https://kim-junhui.github.io/dunno-wut-to-do/First-Post//
+permalink: /First-page/
 
 # Blog Post
 ## My first Blog Post
