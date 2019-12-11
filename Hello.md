@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "Hello"
 permalink: /https://kim-junhui.github.io/dunno-wut-to-do/First-Post//
 
 # Blog Post
